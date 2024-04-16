@@ -47,7 +47,10 @@ Walidacja modelu odbyła się poprzez porównanie wykresów oryginalnych wraz z 
 |E12|![Oryginalne E12](image-4.png)|![Wykryte E12](image-5.png)|
 
 ### 6. Podział prac
-
+- Kacper Majchrzak - dynamiczne wyznaczanie błędów
+- Patryk Kozuch - research oraz przygotowanie danych z artykułu
+- Norbert Klockiewicz - stworzenie oraz trenowanie modelu
+Powyższy podział poakzuje osoby głównie odpowiedzalne za dany segment, jednak każda osoba brała czynny udział w każdym z powyższych segmentów.
 
 ### 7. Podsumowanie
-
+Udało się uzyskać zadowalające rezultaty. Wykryte anomalie nie są idealnie wskazane jednak są w stanie zautomatyzować proces ich wyszukiwania.
