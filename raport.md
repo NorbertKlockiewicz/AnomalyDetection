@@ -50,6 +50,7 @@ Walidacja modelu odbyła się poprzez porównanie wykresów oryginalnych wraz z 
 - Kacper Majchrzak - dynamiczne wyznaczanie błędów
 - Patryk Kozuch - research oraz przygotowanie danych z artykułu
 - Norbert Klockiewicz - stworzenie oraz trenowanie modelu
+
 Powyższy podział poakzuje osoby głównie odpowiedzalne za dany segment, jednak każda osoba brała czynny udział w każdym z powyższych segmentów.
 
 ### 7. Podsumowanie
