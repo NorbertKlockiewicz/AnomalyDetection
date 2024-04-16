@@ -42,9 +42,9 @@ Walidacja modelu odbyła się poprzez porównanie wykresów oryginalnych wraz z 
 ---
 |   |Oryginalne|Wykryte|
 |---|---|---|
-|D3|![Oryginalne D3](image.png)|![Wykryte D3](image-1.png)|
-|D9|![Oryginalne D9](image-2.png)|![Wykryte D9](image-3.png)|
-|E12|![Oryginalne E12](image-4.png)|![Wykryte E12](image-5.png)|
+|D3|![Oryginalne D3](images/d3-org.png)|![Wykryte D3](images/d3-wyk.png)|
+|D9|![Oryginalne D9](images/d9-org.png)|![Wykryte D9](images/d9-wyk.png)|
+|E12|![Oryginalne E12](images/e12-org.png)|![Wykryte E12](images/e12-wyk.png)|
 
 ### 6. Podział prac
 - Kacper Majchrzak - dynamiczne wyznaczanie błędów
